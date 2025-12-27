@@ -1,0 +1,16 @@
+{
+  "name": "nivas-backend",
+  "version": "1.0.0",
+  "description": "nivas mern stack application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
